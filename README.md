@@ -1,0 +1,2 @@
+# CuisinneNc
+Transmettre des recettes est un passe-temps de vieillesse qui s'étend sur plusieurs générations. Mais aujourd'hui, dans ce monde numérique, les gens recherchent des applications qui proposent de superbes recettes de cuisine, à la demande. Ces applications sont très demandées et fournissent à ceux qui aiment cuisiner des recettes inspirantes ; ils peuvent créer de nouveaux plats ou améliorer les plats existants.
